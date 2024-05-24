@@ -25,7 +25,7 @@ console.log(val)
 let result = (new Function('return ' + val))()
 if (!result) throw result
 m.reply(`*${format}* = *_${result}_*
-*『🔥┇MEGO-𝙱𝙾𝚃』*`)
+*『🔥┇𝐓𝐔𝐑𝐁𝐎_𝐁𝐎𝐓』*`)
 } catch (e) {
 if (e == undefined) throw '*[🧮] ادخل المعادله الحسابية لاحلها لك*'
 throw '*التنسيق لا يسمح للأرقام والرموز -, +, *, /, ×, ÷, π, e, (, )*'
