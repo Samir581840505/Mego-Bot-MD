@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => {
   let pp = await conn.profilePictureUrl(who, 'image').catch(_ => './Menu.png')
   conn.sendFile(m.chat, global.API('https://some-random-api.com', '/canvas/overlay/wasted', {
     avatar: pp, 
-  }), 'waste.png', `*『🔥┇𝙼𝙴𝙶𝙾-𝙱𝙾𝚃』*  
+  }), 'waste.png', `*『🔥┇𝐓𝐔𝐑𝐁𝐎_𝐁𝐎𝐓』*  
 ╭━━━[ *⚰️* ]━━━━⬣
 ┃ *☜لقد مات*
 ╯──────────────────╰
