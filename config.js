@@ -6,7 +6,7 @@ global.owner = [['201024480189', '🌩️ ẉa.me//𝐵𝛩𝑺𝑺‖.peị!‽
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = '' //Ejemplo: +201024480189
+global.botNumberCode = '' //Ejemplo: +59309090909
 global.confirmCode = ''
 
 global.animxscans = ['201024480189']
@@ -14,12 +14,12 @@ global.suittag = ['201024480189']
 global.mods = []
 global.prems = []
 
-global.packname = '『 +201024480189 』'
-global.author = '『 تــــربــــو بــ☠️ـوت 』'
-global.wm = '『تــــربــــؤؤ بــ🐍ـؤؤت 』'
-global.wm2 = '『 تــــربــــو بــ💎ـوت 』'
-global.azami = '『تــــربــــؤؤ بــ💀ـؤؤ 』'
-global.cb = '『 تــــربــــو بــ👾ـوت 』'
+global.packname = '『 201024480189 』'
+global.author = '『 تــــربـــــــو بــ☠️ـوت 』'
+global.wm = '『تــــربـــــــؤؤ بــ🐍ـؤؤت 』'
+global.wm2 = '『 تــــربـــــــو بــ💎ـوت 』'
+global.azami = '『تــــربـــــــو بــ💀ـؤؤ 』'
+global.cb = '『 تــــربـــــــو بــ👾ـوت 』'
 
 global.vs = 'V2 • 1.0.5'
 global.library = 'Baileys'
