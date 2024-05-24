@@ -11,13 +11,12 @@ global.confirmCode = ''
 
 global.animxscans = ['201024480189']
 global.suittag = ['201024480189']
-global.mods = [201024480189]
-global.prems = [201024480189]
+global.mods = []
+global.prems = []
 
 global.packname = '『 +201024480189 』'
 global.author = '『 تــــربــــو بــ☠️ـوت 』'
 global.wm = '『تــــربــــؤؤ بــ🐍ـؤؤت 』'
-global.vs = 'V2 • 1.0.5':
 global.wm2 = '『 تــــربــــو بــ💎ـوت 』'
 global.azami = '『تــــربــــؤؤ بــ💀ـؤؤ 』'
 global.cb = '『 تــــربــــو بــ👾ـوت 』'
