@@ -13,9 +13,9 @@ const handler = async (m, {conn, args, groupMetadata, participants, usedPrefix, 
     case 'listanum':
       conn.reply(m.chat, `
 *❐═━━━═╊⊰❄⊱╉═━━━═❐*
-╎MEGO-𝙱𝙾𝚃╎
+╎𝐓𝐔𝐑𝐁𝐎_𝐁𝐎𝐓╎
      · · • • ✤ • • · ·
-𝙱𝚈┇ MEGO
+𝙱𝚈┇ BOSS
 
 *⋄━──═◞⬪❄⬪◟═──━⋄*
 
